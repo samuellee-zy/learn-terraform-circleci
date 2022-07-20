@@ -1,3 +1,3 @@
 region = "ap-southeast-2"
-label  = "hashicorp.fun"
+label  = "hashicorp.fun.1"
 app    = "terramino"
